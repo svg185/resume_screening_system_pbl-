@@ -28,7 +28,10 @@ This creates:
 ## Run
 
 ```bash
-streamlit run app.py
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.73.63.190:8501
+
 ```
 
 ## Dataset Format
